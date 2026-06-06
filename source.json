@@ -1,7 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "entry_package": "sources_by_sarf",
-  "download_url": "https://github.com/susu-loveplaybale/susu/raw/main/sources_by_sarf.jar",
-  "update_msg": "新增麒麟听书70TS源，支持轮回乐园、搜索、分类和分页章节。",
+  "download_url": "https://raw.githubusercontent.com/susu-loveplaybale/susu/main/sources_by_sarf.jar",
+  "update_msg": "更新听书源合集",
   "support_url": ""
 }
